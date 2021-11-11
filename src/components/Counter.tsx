@@ -1,6 +1,4 @@
 import React from 'react';
-import { AnyAction, Dispatch } from 'redux';
-
 interface props {
   increment: () => void;
   decrement: () => void;
