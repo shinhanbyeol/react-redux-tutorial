@@ -8,7 +8,7 @@ const Counter: React.FunctionComponent<props> = ({
   increment,
   decrement,
   number,
-}) => {
+}: props) => {
   return (
     <>
       <div>
